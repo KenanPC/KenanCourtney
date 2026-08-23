@@ -1556,7 +1556,7 @@ h3 {
   }
 
   .tab-button .tab-title {
-    font-size: clamp(0.72rem, 3.15vw, 0.95rem);
+    font-size: clamp(0.828rem, 3.62vw, 1.09rem);
     letter-spacing: 0.05em;
     white-space: nowrap;
   }
