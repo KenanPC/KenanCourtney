@@ -1,1 +1,8 @@
 .DS_Store
+
+# Local-only experiments
+tile-workshop.html
+tile-workshop.css
+tile-workshop.js
+index-pattern-preview.html
+index-pattern-preview.css
