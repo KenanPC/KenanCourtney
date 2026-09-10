@@ -1,2 +1,0 @@
-# KenanCourtney
-My personal website.
